@@ -4,6 +4,9 @@ This research paper investigates TrickBot malware—originally a banking trojan 
 
 ---
 
+FULL PAPER: [TrickBot_MichaelTwining.pdf](https://github.com/user-attachments/files/20796185/TrickBot_MichaelTwining.pdf)
+
+---
 ## 📌 Key Topics Covered
 
 - 👥 Threat Actor Attribution: Wizard Spider, UNC1878, Gold Blackburn
